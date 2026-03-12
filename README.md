@@ -28,11 +28,4 @@
 
 <br>
 
-<img width="450" src="https://github.com/user-attachments/assets/693be74c-13b9-4b30-9f47-90c150cf79cf" />
-<img width="450" src="https://github.com/user-attachments/assets/36c79588-dccd-4991-a233-fd58723dad55" />
-
-<br>
-<img width="450" src="https://github.com/user-attachments/assets/7a026c22-f145-43b8-9e8a-e9bf622e599b" />
-<img width="450" src="https://github.com/user-attachments/assets/bf8fad29-55c2-4672-ad96-368949bbad16" />
-<br>
 
