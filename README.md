@@ -25,7 +25,7 @@
     <td>系統</td><td>macOS Tahoe 26.3.1 + OpenCore 1.0.7</td>
   </tr>  
 </table>
-![Image](https://github.com/user-attachments/assets/88aa620c-83bc-49ab-af21-a965a80bad16)
+<img width="450" src="https://github.com/user-attachments/assets/88aa620c-83bc-49ab-af21-a965a80bad16">
 <br>
 
 
