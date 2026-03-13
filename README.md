@@ -7,10 +7,10 @@
     <td>主機板</td><td>ASUS Prime Z590M Plus</td>
   </tr>
   <tr>
-    <td>WiFi</td><td>BCM94360NG</td>
+    <td>WiFi</td><td>BCM943602CDP</td>
   </tr>
   <tr>
-    <td>藍芽</td><td>BCM94360NG</td>
+    <td>藍芽</td><td>BCM943602CDP</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>DDR4 3200 8GB*4</td>
